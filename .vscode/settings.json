@@ -1,0 +1,6 @@
+{
+    "python.unitTest.useExperimentalDebugger": true,
+    "python.unitTest.unittestEnabled": true,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": false
+}
